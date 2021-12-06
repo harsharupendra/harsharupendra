@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning more about NLP
 - 💞️ I’m looking to work on Automatic speech recognition projects
-- 📫 Connect with me Linkedin, Instagram...
+- 📫 Connect with me [Linkedin](https://www.linkedin.com/in/harshamutrarupendra/), [Instagram](https://www.instagram.com/harsha.__.reddy/)...
 
 <!---
 harsharupendra/harsharupendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
