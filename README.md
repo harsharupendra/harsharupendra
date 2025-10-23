@@ -1,4 +1,4 @@
-# Hola, I’m Harsha Reddy
+# Hello, This is Harsha
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning more about NLP
 - 💞️ I’m looking to work on Automatic speech recognition projects
